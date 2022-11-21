@@ -48,7 +48,7 @@
     "remark-code-titles": "^0.1.2",
     "remark-slug": "^7.0.1",
     "styled-components": "^5.3.5",
-    "sweetalert2": "^11.4.31",
+    "sweetalert2": "^11.6.11",
     "sweetalert2-react-content": "^5.0.3"
   },
   "devDependencies": {
