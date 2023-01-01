@@ -27,7 +27,7 @@
     "@tanstack/react-table": "^8.5.11",
     "dayjs": "^1.10.7",
     "firebase": "^9.6.11",
-    "firebase-admin": "^11.0.1",
+    "firebase-admin": "^11.4.1",
     "framer-motion": "^6.3.1",
     "fuse.js": "^6.5.3",
     "gray-matter": "^4.0.3",
